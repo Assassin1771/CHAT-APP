@@ -1,17 +1,19 @@
 # CHAT APP
-An application which lets the user to enter and city name and then gives the weather details of that city in real time.
+An application which let users chat with each other by creating a new chat.
 <br>
-Details such as temperature, humidity, cloud formation and more.
+Users can also create a group chat and then chat with many people at once.
 <br>
-A handy application to check weather before you are going out.
+Users only have to login once, after that they can always operate their account.
+<br>
+Users can send text messages and images to each other as well.
 <br>
 <br>
-Visit the Website : https://weather-app-assassin1771.netlify.app/
+Visit the Website : https://chat-app-assassin1771.netlify.app/
 
-<img src="SS/Screenshot (01).png">
+<img src="1.png">
 <br>
 <br>
-<img src="SS/Screenshot (390).png">
+<img src="2.png">
 <br>
 <br>
 <br>
@@ -38,8 +40,8 @@ http://localhost:3000
 <br>
 <br>
 <br>
-This is one of the basic projects which every Web Developer desires to build.
+An innovative project which I always wanted to build.
 <br>
-I built this project using React JS, ES6, CSS3 and html5.
+The application was created with the help of React Chat Engine, React JS and basic HTML and CSS.
 <br>
-The website is fully responsive and compatible on all devices.
+I will soon be implementing the backend for the applicaiton with the help of Socket IO and Express.
